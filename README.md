@@ -1,3 +1,5 @@
+# Login instructions
+The app will login with any email format and password due it does not have a database.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
